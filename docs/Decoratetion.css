@@ -1,0 +1,62 @@
+body{
+     
+    background-repeat:no-repeat ;
+    background-size: cover;
+    background-image: url("img.jpg") ;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    
+}
+
+h1{
+    text-shadow: 0px 0px 5px red, 0px -3px 5px orange ;
+    background: linear-gradient( to left, grey, black);
+    width: auto;
+    margin-right: -8px;
+    margin-left:-8px ;
+    margin-top:-8px ;
+    margin-bottom: 0px;
+    border: 2px solid;
+    border: radius 10px; 
+    background-color:black ;
+    color: red;
+    padding:25px ;
+    border:black ;
+    width:auto
+    
+
+    
+     
+}
+p{ 
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size:24px ;
+    border: 1px solid;
+    border-color: black;
+    width: 90px;
+    color: white;
+    text-shadow: 0px 0px 5px red, 0px -2px 0px grey ;
+    margin-top: -40px;
+
+
+}
+
+#p2{
+    border:1px solid;
+    border-color: black;
+    width: 120px;
+    margin-left:1400px;
+    margin-top: -352px;
+
+}
+
+video{
+    margin-top: -100px;
+    margin-left: -10px;
+}
+
+#v1{
+    margin-left:1130px;
+    margin-top: -105px;
+}
